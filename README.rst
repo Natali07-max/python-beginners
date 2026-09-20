@@ -2,7 +2,7 @@ Introduction to programming with Python
 ***************************************
 
 This workshop is an introduction to basic programming concepts and
-abstractions.  It is laid out for hands-on workshops taking up roughly 4 hours.
+abstractions. It is laid out for hands-on workshops taking up approximately 4 hours.
 While we have tried to be compatible with Python 2 _and_ 3 wherever possible,
 we'd strongly encourage you to use Python 3.
 
