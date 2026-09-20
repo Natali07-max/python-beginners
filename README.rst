@@ -19,7 +19,7 @@ HTML Version
 You can view this workshop being hosted here: 
 http://opentechschool.github.io/python-beginners/
 
-The following sections are for people who want to contribute.
+The following sections are for people who want to contribute to the project.
 
 Setup
 =====
