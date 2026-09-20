@@ -58,7 +58,7 @@ You can view this in a browser by running ``fab serve`` and visiting the
 web address listed.
 
 Other `builders <http://sphinx.pocoo.org/builders.html#builders>`_ can be 
-passed as an argument. For instance use ``singlehtml`` to render the whole 
+passed as an argument. For instance use ``singlehtml`` to render whole 
 tutorial into a single HTML file::
 
     $ fab build:en,singlehtml
